@@ -1,10 +1,8 @@
 class Example10
 {
-    public static void main(String[]args)
+    public static void main (String[]args)
     {
-        int a=10;
+        float a=3.0f;
         System.out.println(a);
     }
-    int a=20;
-    System.out.println(a);
 }

@@ -2,11 +2,8 @@ class Example11
 {
     public static void main(String[]args)
     {
-        int a=10;
-        {
-            int b=20;
-            System.out.println(b);
-        }
-        System.out.println(a);
+        byte a=5,b=2;
+        byte c=a*b;
+        System.out.println(c);
     }
 }
